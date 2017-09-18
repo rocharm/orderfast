@@ -1,0 +1,21 @@
+//START mongodb
+
+mongod -dbpath C:\Rocha\Edu\alura_mongodb\data
+
+// Criação de indice uk no momgo
+db.users.createIndex( { "email": 1 }, { unique: true } )
+
+curl http://localhost:3000/pagamentos/pagamento -X POST -v -H "Content-type: application/json" -d @files/pagamento.json
+
+curl http://localhost:3000/pagamentos/pagamento/15 -X PUT -v -H
+
+curl http://localhost:3000/pagamentos/pagamento/15 -X DELETE -v
+
+curl http://localhost:3001/cartoes/autoriza -X POST -v -H "Content-type: application/json" -d @files/cartao.json
+
+
+curl http://localhost:3000/users/auth -X POST -v -H "Content-type: application/json" -d @files/user.json
+
+curl http://localhost:3000/users/user -X POST -v -H "Content-type: application/json" -d @files/user.json
+
+curl http://localhost:3000/users/user/59bc127defddaa00d8d7d660 -X GET -v

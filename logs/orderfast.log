@@ -1,0 +1,416 @@
+{"level":"info","message":"consultando usuários","timestamp":"2017-09-12T19:18:55.074Z"}
+{"level":"info","message":"consultando usuários","timestamp":"2017-09-12T19:24:47.837Z"}
+{"level":"info","message":"::1 - - [12/Sep/2017:19:24:47 +0000] \"GET /users HTTP/1.1\" 200 1402\n","timestamp":"2017-09-12T19:24:47.901Z"}
+{"level":"info","message":"consultando usuários","timestamp":"2017-09-12T19:26:17.345Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m57.338 ms - 1402\u001b[0m\n","timestamp":"2017-09-12T19:26:17.404Z"}
+{"level":"info","message":"consultando usuários","timestamp":"2017-09-12T19:26:19.552Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m12.786 ms - 1402\u001b[0m\n","timestamp":"2017-09-12T19:26:19.566Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m50.476 ms - 336\u001b[0m\n","timestamp":"2017-09-12T19:26:20.935Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m7.494 ms - 336\u001b[0m\n","timestamp":"2017-09-12T19:26:24.525Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m10.120 ms - 336\u001b[0m\n","timestamp":"2017-09-12T19:26:26.042Z"}
+{"level":"info","message":"consultando usuários","timestamp":"2017-09-12T19:26:28.505Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m26.143 ms - 1402\u001b[0m\n","timestamp":"2017-09-12T19:26:28.532Z"}
+{"level":"info","message":"consultando usuários","timestamp":"2017-09-12T19:28:06.857Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m57.039 ms - 1402\u001b[0m\n","timestamp":"2017-09-12T19:28:06.916Z"}
+{"level":"info","message":"consultando usuários","timestamp":"2017-09-12T19:28:08.779Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m12.124 ms - 1402\u001b[0m\n","timestamp":"2017-09-12T19:28:08.791Z"}
+{"level":"info","message":"consultando usuários","timestamp":"2017-09-12T19:28:11.334Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m10.806 ms - 1402\u001b[0m\n","timestamp":"2017-09-12T19:28:11.346Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m52.894 ms - 336\u001b[0m\n","timestamp":"2017-09-12T19:28:12.919Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m24.575 ms - 336\u001b[0m\n","timestamp":"2017-09-12T19:28:13.646Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m88.623 ms - 336\u001b[0m\n","timestamp":"2017-09-12T19:29:13.491Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m10.014 ms - 336\u001b[0m\n","timestamp":"2017-09-12T19:29:14.867Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m10.540 ms - 336\u001b[0m\n","timestamp":"2017-09-12T19:29:16.181Z"}
+{"level":"debug","message":"\u001b[0mGET /users/user/59b808211eff43326cbb8ad3 \u001b[32m200 \u001b[0m22.099 ms - 2\u001b[0m\n","timestamp":"2017-09-12T19:29:17.289Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m8.944 ms - 334\u001b[0m\n","timestamp":"2017-09-12T19:33:24.133Z"}
+{"level":"debug","message":"\u001b[0mGET /users/user/59b808211eff43326cbb8ad3 \u001b[32m200 \u001b[0m50.803 ms - 2\u001b[0m\n","timestamp":"2017-09-12T19:37:54.336Z"}
+{"level":"debug","message":"\u001b[0mGET /users/user/59b808211eff43326cbb8ad3 \u001b[32m200 \u001b[0m10.497 ms - 2\u001b[0m\n","timestamp":"2017-09-12T19:38:16.745Z"}
+{"level":"debug","message":"\u001b[0mGET /users \u001b[31m500 \u001b[0m2.764 ms - 1890\u001b[0m\n","timestamp":"2017-09-12T19:38:22.702Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-12T19:38:55.948Z"}
+{"level":"debug","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m72.097 ms - 1402\u001b[0m\n","timestamp":"2017-09-12T19:38:56.020Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m112.284 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:39:59.582Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m15.430 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:40:00.623Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m9.004 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:40:01.524Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m8.129 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:40:02.458Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m20.487 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:40:03.372Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m17.026 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:40:04.377Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m26.026 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:40:05.475Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m24.252 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:40:06.371Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m17.457 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:40:07.275Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m14.778 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:40:09.925Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m10.167 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:40:11.040Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m12.539 ms - 334\u001b[0m\n","timestamp":"2017-09-12T22:40:12.128Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-12T23:28:06.776Z"}
+{"level":"debug","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m227.754 ms - 1402\u001b[0m\n","timestamp":"2017-09-12T23:28:07.006Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m179.845 ms - 2\u001b[0m\n","timestamp":"2017-09-12T23:29:42.685Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m84.897 ms - 2\u001b[0m\n","timestamp":"2017-09-12T23:31:27.123Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m84.314 ms - 141\u001b[0m\n","timestamp":"2017-09-12T23:33:06.460Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m88.813 ms - 2\u001b[0m\n","timestamp":"2017-09-12T23:33:20.247Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m82.285 ms - 2\u001b[0m\n","timestamp":"2017-09-12T23:34:16.730Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m84.417 ms - 134\u001b[0m\n","timestamp":"2017-09-12T23:35:05.820Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m88.089 ms - 134\u001b[0m\n","timestamp":"2017-09-12T23:35:42.438Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m109.938 ms - 134\u001b[0m\n","timestamp":"2017-09-12T23:45:44.307Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m86.032 ms - 134\u001b[0m\n","timestamp":"2017-09-12T23:46:20.515Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m89.462 ms - 134\u001b[0m\n","timestamp":"2017-09-12T23:48:59.894Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m103.912 ms - 134\u001b[0m\n","timestamp":"2017-09-12T23:52:10.855Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m107.375 ms - 134\u001b[0m\n","timestamp":"2017-09-12T23:52:50.046Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m84.715 ms - 134\u001b[0m\n","timestamp":"2017-09-12T23:59:04.128Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m100.777 ms - 134\u001b[0m\n","timestamp":"2017-09-13T00:01:15.780Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m85.882 ms - 134\u001b[0m\n","timestamp":"2017-09-13T00:07:35.410Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m103.510 ms - 132\u001b[0m\n","timestamp":"2017-09-13T10:41:57.667Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m88.468 ms - 132\u001b[0m\n","timestamp":"2017-09-13T10:46:33.322Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m95.330 ms - 132\u001b[0m\n","timestamp":"2017-09-13T10:49:06.224Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m94.360 ms - 132\u001b[0m\n","timestamp":"2017-09-13T10:50:44.354Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m136.515 ms - 132\u001b[0m\n","timestamp":"2017-09-13T10:53:49.843Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m101.677 ms - 132\u001b[0m\n","timestamp":"2017-09-13T10:54:42.829Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m88.503 ms - 132\u001b[0m\n","timestamp":"2017-09-13T11:03:22.150Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T11:04:12.679Z"}
+{"level":"debug","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m59.456 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T11:04:12.739Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T11:07:01.074Z"}
+{"level":"debug","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m61.535 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T11:07:01.136Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m60.004 ms - 190\u001b[0m\n","timestamp":"2017-09-13T11:07:09.876Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m112.991 ms - 190\u001b[0m\n","timestamp":"2017-09-13T11:09:43.999Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m99.863 ms - 190\u001b[0m\n","timestamp":"2017-09-13T11:16:00.629Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m93.156 ms - 190\u001b[0m\n","timestamp":"2017-09-13T11:17:26.173Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m83.824 ms - 190\u001b[0m\n","timestamp":"2017-09-13T11:18:26.780Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m86.758 ms - 190\u001b[0m\n","timestamp":"2017-09-13T11:19:23.341Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m86.594 ms - 77\u001b[0m\n","timestamp":"2017-09-13T11:20:10.477Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m91.524 ms - 190\u001b[0m\n","timestamp":"2017-09-13T11:20:58.725Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m43.089 ms - 110\u001b[0m\n","timestamp":"2017-09-13T11:24:10.253Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T11:25:08.311Z"}
+{"level":"debug","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m50.583 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T11:25:08.362Z"}
+{"level":"info","message":"Erros de validacao encontrados[object Object]","timestamp":"2017-09-13T11:25:13.949Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m5.113 ms - 110\u001b[0m\n","timestamp":"2017-09-13T11:25:13.950Z"}
+{"level":"info","message":"Erros de validacao encontrados[object Object]","timestamp":"2017-09-13T11:25:57.545Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m46.161 ms - 110\u001b[0m\n","timestamp":"2017-09-13T11:25:57.553Z"}
+{"level":"info","message":"Erros de validacao encontrados{}","timestamp":"2017-09-13T11:26:40.841Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m55.173 ms - 110\u001b[0m\n","timestamp":"2017-09-13T11:26:40.849Z"}
+{"level":"info","message":"Erros de validacao encontrados[{\"location\":\"body\",\"param\":\"email\",\"msg\":\"Utilize um email no formato valido\",\"value\":\"aldiw.rochagmai.com\"}]","timestamp":"2017-09-13T11:28:53.702Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m49.333 ms - 110\u001b[0m\n","timestamp":"2017-09-13T11:28:53.710Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m23.879 ms - 1038\u001b[0m\n","timestamp":"2017-09-13T11:36:59.124Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m21.691 ms - 1038\u001b[0m\n","timestamp":"2017-09-13T11:39:04.369Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T11:39:54.395Z"}
+{"level":"debug","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m58.007 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T11:39:54.453Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m18.210 ms - 1038\u001b[0m\n","timestamp":"2017-09-13T11:39:56.320Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m1.665 ms - 1038\u001b[0m\n","timestamp":"2017-09-13T11:40:10.510Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m21.395 ms - 1038\u001b[0m\n","timestamp":"2017-09-13T11:40:44.361Z"}
+{"level":"debug","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m26.731 ms - 1038\u001b[0m\n","timestamp":"2017-09-13T11:42:13.203Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m30.873 ms - 1038\u001b[0m\n","timestamp":"2017-09-13T11:44:21.359Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T11:44:31.715Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m58.140 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T11:44:31.776Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m23.061 ms - 1038\u001b[0m\n","timestamp":"2017-09-13T11:44:45.782Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m99.399 ms - 190\u001b[0m\n","timestamp":"2017-09-13T11:45:32.325Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m81.591 ms - 77\u001b[0m\n","timestamp":"2017-09-13T11:45:42.018Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-13T11:46:38.645Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m86.243 ms - 77\u001b[0m\n","timestamp":"2017-09-13T11:46:38.715Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-13T11:47:01.912Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m84.864 ms - 190\u001b[0m\n","timestamp":"2017-09-13T11:47:01.981Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-13T11:48:58.304Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m104.802 ms - 190\u001b[0m\n","timestamp":"2017-09-13T11:48:58.391Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-13T11:49:08.790Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m91.101 ms - 77\u001b[0m\n","timestamp":"2017-09-13T11:49:08.862Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-13T11:51:33.456Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m106.456 ms - 77\u001b[0m\n","timestamp":"2017-09-13T11:51:33.543Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T11:51:50.587Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m59.435 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T11:51:50.648Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m17.405 ms - 1025\u001b[0m\n","timestamp":"2017-09-13T11:51:54.538Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m1.783 ms - 1025\u001b[0m\n","timestamp":"2017-09-13T11:54:52.616Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m1.082 ms - 1025\u001b[0m\n","timestamp":"2017-09-13T11:54:54.498Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-13T11:55:15.122Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m93.048 ms - 77\u001b[0m\n","timestamp":"2017-09-13T11:55:15.197Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-13T11:57:12.012Z"}
+{"level":"info","message":"Usuario/senha invalidos: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"12345\",\"perfil\":0}","timestamp":"2017-09-13T11:57:12.094Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m108.343 ms - 77\u001b[0m\n","timestamp":"2017-09-13T11:57:12.102Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-13T11:57:19.317Z"}
+{"level":"info","message":"Usuario/senha invalidos: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"12345\",\"perfil\":0}","timestamp":"2017-09-13T11:57:19.336Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m20.937 ms - 77\u001b[0m\n","timestamp":"2017-09-13T11:57:19.337Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-13T11:58:16.681Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-13T11:58:16.746Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m87.222 ms - 190\u001b[0m\n","timestamp":"2017-09-13T11:58:16.752Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-13T11:58:56.833Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-13T11:58:56.897Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m86.821 ms - 78\u001b[0m\n","timestamp":"2017-09-13T11:58:56.902Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T11:59:34.965Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m62.041 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T11:59:35.027Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b808211eff43326cbb8ad3 \u001b[32m200 \u001b[0m10.282 ms - 2\u001b[0m\n","timestamp":"2017-09-13T12:00:02.301Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b808211eff43326cbb8ad3 \u001b[32m200 \u001b[0m7.322 ms - 2\u001b[0m\n","timestamp":"2017-09-13T12:00:04.787Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b808211eff43326cbb8ad3 \u001b[32m200 \u001b[0m4.852 ms - 2\u001b[0m\n","timestamp":"2017-09-13T12:00:33.538Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b808211eff43326cbb8ad3 \u001b[32m200 \u001b[0m5.253 ms - 2\u001b[0m\n","timestamp":"2017-09-13T12:00:35.472Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b808211eff43326cbb8ad3 \u001b[32m200 \u001b[0m5.690 ms - 2\u001b[0m\n","timestamp":"2017-09-13T12:00:38.751Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m15.150 ms - 192\u001b[0m\n","timestamp":"2017-09-13T12:02:02.338Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m51.752 ms - 190\u001b[0m\n","timestamp":"2017-09-13T12:02:37.723Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f \u001b[31m500 \u001b[0m6.843 ms - 1908\u001b[0m\n","timestamp":"2017-09-13T12:02:56.861Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f \u001b[31m500 \u001b[0m6.259 ms - 1908\u001b[0m\n","timestamp":"2017-09-13T12:03:49.771Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m8.262 ms - 190\u001b[0m\n","timestamp":"2017-09-13T12:03:51.326Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m57.127 ms - 334\u001b[0m\n","timestamp":"2017-09-13T12:24:35.133Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m8.659 ms - 334\u001b[0m\n","timestamp":"2017-09-13T12:24:36.174Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m8.263 ms - 190\u001b[0m\n","timestamp":"2017-09-13T12:24:41.198Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f \u001b[31m500 \u001b[0m22.834 ms - 1908\u001b[0m\n","timestamp":"2017-09-13T12:45:12.586Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9fa \u001b[32m200 \u001b[0m28.596 ms - 4\u001b[0m\n","timestamp":"2017-09-13T12:45:20.454Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m9.780 ms - 190\u001b[0m\n","timestamp":"2017-09-13T12:45:25.140Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m7.461 ms - 190\u001b[0m\n","timestamp":"2017-09-13T12:45:27.486Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f \u001b[31m500 \u001b[0m3.113 ms - 1908\u001b[0m\n","timestamp":"2017-09-13T12:45:30.423Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m6.546 ms - 190\u001b[0m\n","timestamp":"2017-09-13T12:45:35.931Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m6.516 ms - 190\u001b[0m\n","timestamp":"2017-09-13T12:45:42.402Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m5.740 ms - 190\u001b[0m\n","timestamp":"2017-09-13T12:45:43.221Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m54.835 ms - 190\u001b[0m\n","timestamp":"2017-09-13T12:50:27.988Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m10.730 ms - 190\u001b[0m\n","timestamp":"2017-09-13T12:50:30.008Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59b8293ba43b6829a430e9f0 \u001b[32m200 \u001b[0m12.429 ms - 190\u001b[0m\n","timestamp":"2017-09-13T14:33:43.870Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m75.733 ms - 334\u001b[0m\n","timestamp":"2017-09-13T16:25:00.015Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m16.200 ms - 334\u001b[0m\n","timestamp":"2017-09-13T17:55:50.316Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m6.239 ms - 334\u001b[0m\n","timestamp":"2017-09-13T17:55:51.374Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m8.598 ms - 334\u001b[0m\n","timestamp":"2017-09-13T17:58:55.005Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T18:55:27.369Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m80.461 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T18:55:27.449Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T18:55:28.453Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m17.860 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T18:55:28.472Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T18:55:29.664Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m11.372 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T18:55:29.675Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m88.365 ms - 334\u001b[0m\n","timestamp":"2017-09-13T18:55:33.818Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m8.885 ms - 334\u001b[0m\n","timestamp":"2017-09-13T18:55:34.727Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T18:55:56.844Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m11.271 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T18:55:56.855Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-13T18:57:07.071Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m11.614 ms - 1402\u001b[0m\n","timestamp":"2017-09-13T18:57:07.082Z"}
+{"level":"info","message":"\u001b[0mGET /pagamentos/pagamento/] \u001b[33m404 \u001b[0m2.299 ms - 161\u001b[0m\n","timestamp":"2017-09-13T18:59:19.036Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-14T14:35:22.004Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m102.307 ms - 1402\u001b[0m\n","timestamp":"2017-09-14T14:35:22.109Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-14T14:35:23.352Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m15.394 ms - 1402\u001b[0m\n","timestamp":"2017-09-14T14:35:23.369Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-14T18:44:18.660Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m14.861 ms - 1402\u001b[0m\n","timestamp":"2017-09-14T18:44:18.675Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m323.698 ms - 334\u001b[0m\n","timestamp":"2017-09-14T18:44:37.135Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m8.927 ms - 334\u001b[0m\n","timestamp":"2017-09-14T18:44:38.490Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[32m201 \u001b[0m7.552 ms - 384\u001b[0m\n","timestamp":"2017-09-14T18:44:54.017Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:33:44.006Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:39:14.459Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:41:17.641Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:42:27.529Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:43:23.600Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:44:20.552Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:45:03.340Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:45:46.405Z"}
+{"level":"info","message":"\u001b[0mPOST /users/users/user \u001b[33m404 \u001b[0m23.424 ms - 156\u001b[0m\n","timestamp":"2017-09-15T17:48:20.444Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[32m201 \u001b[0m296.909 ms - 384\u001b[0m\n","timestamp":"2017-09-15T17:48:45.838Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:51:21.101Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T17:51:21.171Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:54:22.365Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T17:54:22.433Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:56:26.345Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T17:56:26.411Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T17:57:23.409Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T17:57:23.475Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m94.145 ms - 213\u001b[0m\n","timestamp":"2017-09-15T17:57:23.481Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T18:01:51.890Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T18:01:51.960Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m96.395 ms - 173\u001b[0m\n","timestamp":"2017-09-15T18:01:51.967Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T18:02:41.448Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T18:02:41.519Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m96.370 ms - 181\u001b[0m\n","timestamp":"2017-09-15T18:02:41.526Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T18:02:46.197Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T18:02:46.215Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m19.577 ms - 181\u001b[0m\n","timestamp":"2017-09-15T18:02:46.217Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T18:04:26.497Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T18:04:26.564Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m93.414 ms - 173\u001b[0m\n","timestamp":"2017-09-15T18:04:26.570Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T18:04:43.522Z"}
+{"level":"info","message":"Usuario/senha invalidos: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"12345\",\"perfil\":0}","timestamp":"2017-09-15T18:04:43.586Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m85.745 ms - 77\u001b[0m\n","timestamp":"2017-09-15T18:04:43.591Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T18:04:58.553Z"}
+{"level":"info","message":"Usuario/senha invalidos: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"12345\",\"perfil\":0}","timestamp":"2017-09-15T18:04:58.572Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m21.033 ms - 77\u001b[0m\n","timestamp":"2017-09-15T18:04:58.574Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T18:05:18.426Z"}
+{"level":"info","message":"Usuario não localizado na base de dados: {\"nome\":\"Aldilene\",\"email\":\"aldi.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T18:05:18.489Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T18:12:35.008Z"}
+{"level":"info","message":"Usuario não localizado na base de dados: {\"nome\":\"Aldilene\",\"email\":\"aldi.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T18:12:35.070Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m83.706 ms - 77\u001b[0m\n","timestamp":"2017-09-15T18:12:35.075Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m32.284 ms - 1038\u001b[0m\n","timestamp":"2017-09-15T18:13:13.598Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T18:13:22.713Z"}
+{"level":"info","message":"Usuario não localizado na base de dados: {\"email\":\"aldi.rocha@gmai.com\",\"senha\":\"123456\"}","timestamp":"2017-09-15T18:13:22.776Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m86.682 ms - 48\u001b[0m\n","timestamp":"2017-09-15T18:13:22.782Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T18:13:45.867Z"}
+{"level":"info","message":"Usuario não localizado na base de dados: {\"nome\":\"Aldilene\",\"email\":\"aldi.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T18:13:45.931Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m86.866 ms - 77\u001b[0m\n","timestamp":"2017-09-15T18:13:45.937Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T18:14:00.522Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T18:14:00.586Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m86.410 ms - 173\u001b[0m\n","timestamp":"2017-09-15T18:14:00.592Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T20:23:57.582Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T20:23:57.595Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m15.733 ms - 173\u001b[0m\n","timestamp":"2017-09-15T20:23:57.597Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m8.219 ms - 190\u001b[0m\n","timestamp":"2017-09-15T20:25:45.796Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m9.214 ms - 190\u001b[0m\n","timestamp":"2017-09-15T20:26:11.369Z"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404 \u001b[0m5.187 ms - 150\u001b[0m\n","timestamp":"2017-09-15T20:26:11.646Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[36m304 \u001b[0m11.450 ms - -\u001b[0m\n","timestamp":"2017-09-15T20:39:55.703Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[36m304 \u001b[0m8.379 ms - -\u001b[0m\n","timestamp":"2017-09-15T20:39:58.025Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-15T20:40:04.163Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m12.017 ms - 192\u001b[0m\n","timestamp":"2017-09-15T20:40:04.175Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-15T20:42:50.451Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-15T20:42:50.458Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m8.719 ms - 173\u001b[0m\n","timestamp":"2017-09-15T20:42:50.459Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-15T20:47:55.551Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[36m304 \u001b[0m7.866 ms - -\u001b[0m\n","timestamp":"2017-09-15T20:47:55.559Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[36m304 \u001b[0m9.021 ms - -\u001b[0m\n","timestamp":"2017-09-15T20:48:01.360Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d66 \u001b[31m500 \u001b[0m2.873 ms - 1915\u001b[0m\n","timestamp":"2017-09-15T20:48:06.146Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[36m304 \u001b[0m7.447 ms - -\u001b[0m\n","timestamp":"2017-09-15T20:48:12.039Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d6600 \u001b[31m500 \u001b[0m1.774 ms - 1915\u001b[0m\n","timestamp":"2017-09-15T20:48:17.009Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[36m304 \u001b[0m7.898 ms - -\u001b[0m\n","timestamp":"2017-09-15T20:48:27.646Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[36m304 \u001b[0m8.153 ms - -\u001b[0m\n","timestamp":"2017-09-15T20:48:30.206Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d66x \u001b[31m500 \u001b[0m5.137 ms - 1915\u001b[0m\n","timestamp":"2017-09-15T20:48:57.999Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[36m304 \u001b[0m7.402 ms - -\u001b[0m\n","timestamp":"2017-09-15T20:49:02.852Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[36m304 \u001b[0m6.106 ms - -\u001b[0m\n","timestamp":"2017-09-17T13:06:04.365Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:00:33.304Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:00:33.336Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m33.381 ms - 173\u001b[0m\n","timestamp":"2017-09-18T11:00:33.337Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:05:23.302Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:05:23.418Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m315.096 ms - 173\u001b[0m\n","timestamp":"2017-09-18T11:05:23.424Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m17.465 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:05:41.082Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[33m401 \u001b[0m5.233 ms - -\u001b[0m\n","timestamp":"2017-09-18T11:06:22.050Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[33m401 \u001b[0m1.056 ms - -\u001b[0m\n","timestamp":"2017-09-18T11:06:45.209Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[32m201 \u001b[0m68.655 ms - 384\u001b[0m\n","timestamp":"2017-09-18T11:07:25.616Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m52.543 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:07:47.124Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:08:01.653Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:08:01.681Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m53.867 ms - 173\u001b[0m\n","timestamp":"2017-09-18T11:08:01.682Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:09:19.372Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:09:19.382Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m11.801 ms - 173\u001b[0m\n","timestamp":"2017-09-18T11:09:19.384Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:09:54.838Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:09:54.844Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m7.352 ms - 173\u001b[0m\n","timestamp":"2017-09-18T11:09:54.845Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m8.504 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:09:58.470Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m5.997 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:11:38.684Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:11:49.968Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:11:49.975Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m8.698 ms - 173\u001b[0m\n","timestamp":"2017-09-18T11:11:49.976Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:17:44.485Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:17:44.490Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m7.316 ms - 173\u001b[0m\n","timestamp":"2017-09-18T11:17:44.491Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m4.812 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:18:49.525Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m4.925 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:18:57.371Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m4.912 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:19:09.302Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m6.441 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:19:28.317Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[33m401 \u001b[0m4.160 ms - -\u001b[0m\n","timestamp":"2017-09-18T11:20:26.000Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[33m401 \u001b[0m6.744 ms - -\u001b[0m\n","timestamp":"2017-09-18T11:20:30.951Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[33m401 \u001b[0m1.138 ms - -\u001b[0m\n","timestamp":"2017-09-18T11:20:32.608Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m77.174 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:20:50.564Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:24:00.551Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:24:00.619Z"}
+{"level":"info","message":"Auth payload: {}","timestamp":"2017-09-18T11:24:00.619Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m91.609 ms - 173\u001b[0m\n","timestamp":"2017-09-18T11:24:00.627Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:24:57.684Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:24:57.750Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m92.054 ms - 173\u001b[0m\n","timestamp":"2017-09-18T11:24:57.757Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:28:21.787Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:28:21.851Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m89.105 ms - 173\u001b[0m\n","timestamp":"2017-09-18T11:28:21.858Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:28:38.970Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:28:39.037Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m92.419 ms - 214\u001b[0m\n","timestamp":"2017-09-18T11:28:39.044Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m22.419 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:30:12.624Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m6.610 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:30:31.955Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m63.098 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:35:02.959Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m15.347 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:35:04.211Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m11.131 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:35:11.397Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[33m401 \u001b[0m7.432 ms - -\u001b[0m\n","timestamp":"2017-09-18T11:35:20.405Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m16.297 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:35:27.046Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m8.086 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:35:31.021Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m5.645 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:35:31.851Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m6.022 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:35:54.174Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m5.720 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:35:55.025Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[31m500 \u001b[0m16.230 ms - 591\u001b[0m\n","timestamp":"2017-09-18T11:44:24.008Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:46:11.940Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:46:12.007Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:48:20.040Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:48:20.108Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m94.578 ms - 214\u001b[0m\n","timestamp":"2017-09-18T11:48:20.114Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:49:16.139Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:49:16.207Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m90.067 ms - 214\u001b[0m\n","timestamp":"2017-09-18T11:49:16.213Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m34.318 ms - 190\u001b[0m\n","timestamp":"2017-09-18T11:49:23.263Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:50:31.509Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:50:31.519Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m11.804 ms - 214\u001b[0m\n","timestamp":"2017-09-18T11:50:31.521Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[31m500 \u001b[0m9.559 ms - 651\u001b[0m\n","timestamp":"2017-09-18T11:52:46.983Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[31m500 \u001b[0m70.848 ms - 129\u001b[0m\n","timestamp":"2017-09-18T11:57:13.670Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T11:58:21.903Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T11:58:21.971Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m95.493 ms - 214\u001b[0m\n","timestamp":"2017-09-18T11:58:21.978Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m25.526 ms - 4\u001b[0m\n","timestamp":"2017-09-18T12:00:17.577Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m14.526 ms - 4\u001b[0m\n","timestamp":"2017-09-18T12:00:19.764Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m10.604 ms - 4\u001b[0m\n","timestamp":"2017-09-18T12:00:20.985Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T12:00:35.482Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T12:00:35.490Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m10.299 ms - 214\u001b[0m\n","timestamp":"2017-09-18T12:00:35.490Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T12:01:47.548Z"}
+{"level":"info","message":"Usuario/senha invalidos: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"12345\",\"perfil\":0}","timestamp":"2017-09-18T12:01:47.615Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[33m400 \u001b[0m92.041 ms - 77\u001b[0m\n","timestamp":"2017-09-18T12:01:47.620Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T12:02:01.858Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T12:02:01.923Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m89.084 ms - 214\u001b[0m\n","timestamp":"2017-09-18T12:02:01.929Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m33.529 ms - 4\u001b[0m\n","timestamp":"2017-09-18T12:02:18.313Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m21.036 ms - 4\u001b[0m\n","timestamp":"2017-09-18T12:03:33.450Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T12:06:54.557Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldiw.rocha@gmai.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T12:06:54.624Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m91.922 ms - 214\u001b[0m\n","timestamp":"2017-09-18T12:06:54.631Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m26.053 ms - 4\u001b[0m\n","timestamp":"2017-09-18T12:07:21.739Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m14.382 ms - 4\u001b[0m\n","timestamp":"2017-09-18T12:09:45.639Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bc127defddaa00d8d7d660 \u001b[32m200 \u001b[0m11.965 ms - 4\u001b[0m\n","timestamp":"2017-09-18T12:09:45.923Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bfa8ed7016c821c013305b \u001b[32m200 \u001b[0m17.960 ms - 190\u001b[0m\n","timestamp":"2017-09-18T12:12:44.454Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-18T12:14:08.661Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m84.295 ms - 192\u001b[0m\n","timestamp":"2017-09-18T12:14:08.686Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-18T12:14:16.169Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m17.546 ms - 192\u001b[0m\n","timestamp":"2017-09-18T12:14:16.178Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[33m401 \u001b[0m1.164 ms - -\u001b[0m\n","timestamp":"2017-09-18T12:14:27.626Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-18T12:14:36.146Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m17.811 ms - 192\u001b[0m\n","timestamp":"2017-09-18T12:14:36.156Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-18T12:25:59.665Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m14.107 ms - 192\u001b[0m\n","timestamp":"2017-09-18T12:25:59.673Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-18T12:26:00.488Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m12.251 ms - 192\u001b[0m\n","timestamp":"2017-09-18T12:26:00.496Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-18T12:26:00.694Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m20.909 ms - 192\u001b[0m\n","timestamp":"2017-09-18T12:26:00.709Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-18T12:26:00.973Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m12.999 ms - 192\u001b[0m\n","timestamp":"2017-09-18T12:26:00.980Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[32m201 \u001b[0m76.559 ms - 384\u001b[0m\n","timestamp":"2017-09-18T12:35:14.126Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[32m201 \u001b[0m18.502 ms - 384\u001b[0m\n","timestamp":"2017-09-18T12:35:15.925Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[32m201 \u001b[0m7.194 ms - 384\u001b[0m\n","timestamp":"2017-09-18T12:35:17.225Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-18T12:35:20.956Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m46.224 ms - 765\u001b[0m\n","timestamp":"2017-09-18T12:35:20.969Z"}
+{"level":"debug","message":"consultando usuários","timestamp":"2017-09-18T12:35:21.868Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m22.899 ms - 765\u001b[0m\n","timestamp":"2017-09-18T12:35:21.885Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[32m201 \u001b[0m10.316 ms - 384\u001b[0m\n","timestamp":"2017-09-18T12:38:14.818Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[31m500 \u001b[0m10.891 ms - 651\u001b[0m\n","timestamp":"2017-09-18T12:40:15.152Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[31m500 \u001b[0m6.363 ms - 651\u001b[0m\n","timestamp":"2017-09-18T12:40:20.941Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[31m500 \u001b[0m5.244 ms - 651\u001b[0m\n","timestamp":"2017-09-18T12:40:32.887Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[31m500 \u001b[0m5.676 ms - 651\u001b[0m\n","timestamp":"2017-09-18T12:40:59.372Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[31m500 \u001b[0m9.636 ms - 651\u001b[0m\n","timestamp":"2017-09-18T12:41:00.480Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[31m500 \u001b[0m8.530 ms - 651\u001b[0m\n","timestamp":"2017-09-18T12:41:01.928Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[31m500 \u001b[0m7.205 ms - 651\u001b[0m\n","timestamp":"2017-09-18T12:41:04.343Z"}
+{"level":"info","message":"\u001b[0mGET /users \u001b[31m500 \u001b[0m6.468 ms - 651\u001b[0m\n","timestamp":"2017-09-18T12:41:10.546Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[32m201 \u001b[0m73.565 ms - 384\u001b[0m\n","timestamp":"2017-09-18T12:42:18.424Z"}
+{"level":"info","message":"\u001b[0mPOST /users/user \u001b[33m400 \u001b[0m199.237 ms - 336\u001b[0m\n","timestamp":"2017-09-18T12:42:21.738Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T12:43:39.389Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldi.rocha@gmail.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T12:43:39.540Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m156.890 ms - 214\u001b[0m\n","timestamp":"2017-09-18T12:43:39.545Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bfbf2a40a1141f08385d41 \u001b[31m500 \u001b[0m15.632 ms - 651\u001b[0m\n","timestamp":"2017-09-18T12:43:56.539Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bfbf2a40a1141f08385d41 \u001b[31m500 \u001b[0m7.410 ms - 651\u001b[0m\n","timestamp":"2017-09-18T12:44:10.790Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T12:45:18.671Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldi.rocha@gmail.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T12:45:18.678Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m11.416 ms - 214\u001b[0m\n","timestamp":"2017-09-18T12:45:18.679Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bfbf2a40a1141f08385d41 \u001b[32m200 \u001b[0m14.841 ms - 190\u001b[0m\n","timestamp":"2017-09-18T12:46:05.616Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T12:46:53.314Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldi.rocha@gmail.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T12:46:53.378Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m86.125 ms - 214\u001b[0m\n","timestamp":"2017-09-18T12:46:53.384Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T12:47:36.224Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldi.rocha@gmail.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T12:47:36.236Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m15.121 ms - 214\u001b[0m\n","timestamp":"2017-09-18T12:47:36.239Z"}
+{"level":"info","message":"Processando autenticacao usuario","timestamp":"2017-09-18T12:47:37.300Z"}
+{"level":"info","message":"Usuario validado: {\"nome\":\"Aldilene\",\"email\":\"aldi.rocha@gmail.com\",\"senha\":\"123456\",\"perfil\":0}","timestamp":"2017-09-18T12:47:37.306Z"}
+{"level":"info","message":"\u001b[0mPOST /users/auth \u001b[32m200 \u001b[0m7.554 ms - 214\u001b[0m\n","timestamp":"2017-09-18T12:47:37.307Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bfbf2a40a1141f08385d41 \u001b[32m200 \u001b[0m66.395 ms - 190\u001b[0m\n","timestamp":"2017-09-18T12:50:44.884Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bfbf2a40a1141f08385d41 \u001b[32m200 \u001b[0m12.892 ms - 190\u001b[0m\n","timestamp":"2017-09-18T12:51:00.752Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bfbf2a40a1141f08385d41 \u001b[33m401 \u001b[0m6.902 ms - -\u001b[0m\n","timestamp":"2017-09-18T12:51:42.755Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bfbf2a40a1141f08385d41 \u001b[33m401 \u001b[0m1.448 ms - -\u001b[0m\n","timestamp":"2017-09-18T12:51:46.513Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bfbf2a40a1141f08385d41 \u001b[33m401 \u001b[0m7.110 ms - -\u001b[0m\n","timestamp":"2017-09-18T12:51:48.501Z"}
+{"level":"info","message":"\u001b[0mGET /users/user/59bfbf2a40a1141f08385d41 \u001b[33m401 \u001b[0m1.928 ms - -\u001b[0m\n","timestamp":"2017-09-18T12:51:49.657Z"}
